@@ -17,7 +17,6 @@
 #include "query/exceptions.hpp"
 #include "query/frontend/opencypher/generated/MemgraphCypher.h"
 #include "query/frontend/opencypher/generated/MemgraphCypherLexer.h"
-#include "utils/logging.hpp"
 
 namespace memgraph::query::frontend::opencypher {
 
